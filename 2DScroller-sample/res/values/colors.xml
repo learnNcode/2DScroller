@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="linkBlueColor">#00568d</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="glassBlack">#252525</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grayTextColor">#989898</color>
+    <color name="homeScreenBackgroundColor">#1e1e1e</color>
+    <color name="informationBarBgColor">#181818</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow2">#EEEE00</color>
+    <color name="yellow1">#FFFF00</color>
+    <color name="grey05">#696969</color>
+    <color name="black01">#797979</color>
+    <color name="grey01">#808080</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="pink">#FF00FF</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="gray">#424542</color>
+
+</resources>
